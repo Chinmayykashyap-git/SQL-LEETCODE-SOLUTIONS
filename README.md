@@ -20,6 +20,3 @@ It serves as a personal practice log as well as a reference for anyone preparing
 - **Platform:** LeetCode  
 - **Databases Used:** MySQL / PostgreSQL (as per LeetCode support)
 
----
-
-## 📂 Repository Structure
